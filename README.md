@@ -10,6 +10,20 @@ This project is a simple chatroom web application built using Flask, a lightweig
 - **Real-time Chat**: Messages sent by users are displayed in real-time to all participants in the chatroom.
 - **Message Persistence**: Chat messages are stored in a SQLite database, allowing for message retrieval and history.
 
+## Demo
+
+Landing page
+
+![image info](./demo/welcome_page.png)
+
+Log in page
+
+![image info](./demo/login_page.png)
+
+Chatroom
+
+![image info](./demo/chat_page.png)
+
 ## Technology Used
 
 - **Flask**: The web application framework used for building the backend server.
